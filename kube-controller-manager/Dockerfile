@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-controller-manager-amd64:v1.14.1
+From k8s.gcr.io/kube-controller-manager:v1.14.6

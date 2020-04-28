@@ -1,1 +1,1 @@
-From k8s.gcr.io/pause-amd64:v3.1
+From k8s.gcr.io/pause:v3.1
